@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SurviveRecipe.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:Pods"
+      name = "Pods">
+      <FileRef
+         location = "group:Pods/Target Support Files/Pods-SurviveRecipe/Pods-SurviveRecipe.debug.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:Pods/Target Support Files/Pods-SurviveRecipe/Pods-SurviveRecipe.release.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:Pods/Target Support Files/Pods-SurviveRecipe-SurviveRecipeUITests/Pods-SurviveRecipe-SurviveRecipeUITests.debug.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:Pods/Target Support Files/Pods-SurviveRecipe-SurviveRecipeUITests/Pods-SurviveRecipe-SurviveRecipeUITests.release.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:Pods/Target Support Files/Pods-SurviveRecipeTests/Pods-SurviveRecipeTests.debug.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:Pods/Target Support Files/Pods-SurviveRecipeTests/Pods-SurviveRecipeTests.release.xcconfig">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

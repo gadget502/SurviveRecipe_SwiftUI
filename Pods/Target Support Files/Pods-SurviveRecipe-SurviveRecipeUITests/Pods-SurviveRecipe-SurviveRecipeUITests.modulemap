@@ -1,0 +1,6 @@
+framework module Pods_SurviveRecipe_SurviveRecipeUITests {
+  umbrella header "Pods-SurviveRecipe-SurviveRecipeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

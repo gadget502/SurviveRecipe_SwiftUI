@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1002580275456-5fpko3190q7q2jpe215gsovhfgud9iap.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1002580275456-5fpko3190q7q2jpe215gsovhfgud9iap</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAd7Z0LKMjpWi7IOJ6ZYyZy1nkGVKBr2_o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1002580275456</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gadget.swiftui.SurviveRecipe</string>
+	<key>PROJECT_ID</key>
+	<string>yameyori-misakamoe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yameyori-misakamoe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1002580275456:ios:4ba6319ec6885375c3c3e5</string>
+	<key>DATABASE_URL</key>
+	<string>https://yameyori-misakamoe.firebaseio.com</string>
+</dict>
+</plist>

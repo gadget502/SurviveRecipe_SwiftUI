@@ -17,11 +17,25 @@ target 'SurviveRecipe' do
   pod 'Firebase/Auth'
   pod 'Firebase/Database'
 
-  # Pods for SurviveRecipe
-
+  # msic
+  pod 'Then'
+  
   target 'SurviveRecipeTests' do
     inherit! :search_paths
     # Pods for testing
+    
+    # Architecture
+    pod 'ReactorKit'
+    
+    #UI
+    pod 'MaterialComponents'
+    
+    
+    #firebase
+    pod 'Firebase/Core'
+    pod 'Firebase/Auth'
+    pod 'Firebase/Database'
+
   end
 
   target 'SurviveRecipeUITests' do
